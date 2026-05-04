@@ -1,0 +1,14 @@
+/* General page styles */
+body {
+  font-family: sans-serif;
+  background-color: #f0fff0; /* A light green tint */
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Header style */
+h1 {
+  color: #ff69b4; /* A vibrant pink*/
+  border-bottom: 2px solid #ff69b4;
+}
